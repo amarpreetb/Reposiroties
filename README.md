@@ -1,6 +1,6 @@
-# Reposiroties
+# Repositories
 
-## Fork Reposiroties
+## Fork Repositories
 - [Bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Repository
 - [libgdx](https://github.com/libgdx/libgdx) - Desktop/Android/HTML5/iOS Java game development framework
 - [awesome-bots](https://github.com/abdelhai/awesome-bots)
@@ -19,4 +19,4 @@
 - [Craft](https://github.com/fogleman/Craft)
 - [computer-science](https://github.com/ossu/computer-science)
 
-## Stars Reposiroties
+## Stars Repositories
