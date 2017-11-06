@@ -1,15 +1,12 @@
 # Github Repositories
 
-## AWESOME LIST
+## Awesome List
 
 - [List of Lists](https://github.com/jnv/lists)
 - [Awesome List](https://github.com/sindresorhus/awesome)
 - [Awesome C](https://github.com/amarpreetb/awesome-c)
 - [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
-- [Awesome Bots](https://github.com/abdelhai/awesome-bots) - Debug, Design, Hack a bot and more..
-- [Awesome Bots](https://github.com/BotCube/awesome-bots) - Complete list of tools and bots
-- [Awesome Bots](https://github.com/hackerkid/bots) - Tools for building bots and platform documentation
 - [Awesome Reverse Engineering](https://github.com/fdivrp/awesome-reversing)
 - [Beginner Projects](https://github.com/MunGell/awesome-for-beginners)
 - [Websites For Programmers](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
@@ -23,8 +20,14 @@
 - [List of Open Source](https://github.com/amarpreetb/List-of-Open-Source)
 - [Awesome Hacking Resources](https://github.com/vitalysim/Awesome-Hacking-Resources)
 
+#### Bots
+- [Awesome Bots](https://github.com/abdelhai/awesome-bots) - Debug, Design, Hack a bot and more..
+- [Awesome Bots](https://github.com/BotCube/awesome-bots) - Complete list of tools and bots
+- [Awesome Bots](https://github.com/hackerkid/bots) - Tools for building bots and platform documentation
 
-## ANDROID
+
+
+## Android
 - [List of Android UI/UX Libraries](https://github.com/wasabeef/awesome-android-ui)
 - [Android Architecture Blueprints](https://github.com/googlesamples/android-architecture)
 - [Universal Image Loader](https://github.com/nostra13/Android-Universal-Image-Loader)
@@ -37,7 +40,7 @@
 - [Tensor Flow Tutorials](https://github.com/astorfi/TensorFlow-World)
 - [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples)
 
-## ALGORITHMS 
+## Algorithms 
 - [C Algorithms](https://github.com/fragglet/c-algorithms) - C
 - [C Algorithms](https://github.com/TheAlgorithms/C)
 - [C++ Algorithms](https://github.com/TheAlgorithms/C-Plus-Plus) - C++
@@ -58,20 +61,18 @@
 - [Linux Source](https://github.com/torvalds/linux)
 - [VLC](https://github.com/videolan/vlc)
 
-## JAVASCRIPT
+## Javascript
 - [Javascript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
 - [URL to PDF API](https://github.com/alvarcarto/url-to-pdf-api)
 - [Speed Test](https://github.com/sindresorhus/speed-test)
 
-## BOTS
-- [Awesome Bots](https://github.com/abdelhai/awesome-bots) - Debug, Design, Hack a bot and more..
-- [Awesome Bots](https://github.com/BotCube/awesome-bots) - Complete list of tools and bots
-- [Awesome Bots](https://github.com/hackerkid/bots) - Tools for building bots and platform documentation 
-
-## OPEN SOURCE
+## Open Source Software/Games On Github
 - [Computer Science](https://github.com/ossu/computer-science) - Path to a free self-taught education in Computer Science!
 - [Linux Kernel Inside](https://github.com/0xAX/linux-insides) - A book-in-progress about the linux kernel and its insides.
 - [IOS Kernel](https://github.com/apple/darwin-xnu)
+- [OpenGL Minecraft](https://github.com/fogleman/Craft)
+- [Linux Source](https://github.com/torvalds/linux)
+- [VLC](https://github.com/videolan/vlc)
 
 ## For Developers 
 - [Learn Regex](https://github.com/zeeshanu/learn-regex)
@@ -86,11 +87,11 @@
 - [The Ultimate vimrc](https://github.com/amix/vimrc)
 - [Pace](https://github.com/HubSpot/pace) - Automatically add a progress bar to your site
 
-## REVERSE ENGINEERING
+## Reverse Engineering
 - [Awesome Reverse Engineering](https://github.com/fdivrp/awesome-reversing)
 - [Porting Xbox360 executables to Windows](https://github.com/rexdex/recompiler)
 
-## HACKING
+## Hacking
 - [Windows Exploitation](https://github.com/enddo/awesome-windows-exploitation) A curated list of awesome Windows Exploitation resources
 - [Web Hacking](https://github.com/infoslack/awesome-web-hacking)
 - [Awesome Hacking](https://github.com/carpedm20/awesome-hacking)
