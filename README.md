@@ -61,6 +61,11 @@
 - [OpenGL Minecraft](https://github.com/fogleman/Craft)
 - [Linux Source](https://github.com/torvalds/linux)
 - [VLC](https://github.com/videolan/vlc)
+- [FFmpeg](https://github.com/FFmpeg/FFmpeg) - FFmpeg is a collection of libraries and tools to process multimedia content such as audio, video, subtitles and related metadata.
+- [TvHeadend](https://github.com/tvheadend/tvheadend) - Tvheadend is a TV streaming server for Linux
+- [The Powder Toy](https://github.com/ThePowderToy/The-Powder-Toy) - The Powder Toy is a desktop version of the classic 'falling sand' physics sandbox, it simulates air pressure and velocity as well as heat. 
+- [Corange](https://github.com/orangeduck/Corange) - Pure C Game Engine 
+
 
 ## Javascript
 - [Javascript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
