@@ -8,6 +8,8 @@
 - [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 - [Awesome Reverse Engineering](https://github.com/fdivrp/awesome-reversing)
+- [Awesome Hacking Resources](https://github.com/vitalysim/Awesome-Hacking-Resources)
+- [Awesome API](https://github.com/abhishekbanthia/Public-APIs)
 - [Beginner Projects](https://github.com/MunGell/awesome-for-beginners)
 - [Websites For Programmers](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 - [CS Video Courses](https://github.com/Developer-Y/cs-video-courses)
@@ -16,9 +18,8 @@
 - [Free Dev Books List](https://github.com/EbookFoundation/free-programming-books)
 - [List of Android UI/UX Libraries](https://github.com/wasabeef/awesome-android-ui)
 - [Tools for Marketing](https://github.com/LisaDziuba/Marketing-for-Engineers)
-- [Awesome API](https://github.com/abhishekbanthia/Public-APIs)
 - [List of Open Source](https://github.com/amarpreetb/List-of-Open-Source)
-- [Awesome Hacking Resources](https://github.com/vitalysim/Awesome-Hacking-Resources)
+
 
 #### Bots
 - [Awesome Bots](https://github.com/abdelhai/awesome-bots) - Debug, Design, Hack a bot and more..
@@ -67,12 +68,20 @@
 - [Speed Test](https://github.com/sindresorhus/speed-test)
 
 ## Open Source Software/Games On Github
-- [Computer Science](https://github.com/ossu/computer-science) - Path to a free self-taught education in Computer Science!
+
+#### OS
 - [Linux Kernel Inside](https://github.com/0xAX/linux-insides) - A book-in-progress about the linux kernel and its insides.
 - [IOS Kernel](https://github.com/apple/darwin-xnu)
-- [OpenGL Minecraft](https://github.com/fogleman/Craft)
 - [Linux Source](https://github.com/torvalds/linux)
+
+#### Games
+- [OpenGL Minecraft](https://github.com/fogleman/Craft) - A simple Minecraft clone written in C using modern OpenGL
+- [0AD](https://github.com/0ad/0ad)
+- [Porting Xbox360 executables to Windows](https://github.com/rexdex/recompiler)
+
+#### Software
 - [VLC](https://github.com/videolan/vlc)
+- [Bitcoin](https://github.com/bitcoin/bitcoin)
 
 ## For Developers 
 - [Learn Regex](https://github.com/zeeshanu/learn-regex)
@@ -86,13 +95,3 @@
 - [What Happens When you type Google.com](https://github.com/alex/what-happens-when) An attempt to answer the age old interview question
 - [The Ultimate vimrc](https://github.com/amix/vimrc)
 - [Pace](https://github.com/HubSpot/pace) - Automatically add a progress bar to your site
-
-## Reverse Engineering
-- [Awesome Reverse Engineering](https://github.com/fdivrp/awesome-reversing)
-- [Porting Xbox360 executables to Windows](https://github.com/rexdex/recompiler)
-
-## Hacking
-- [Windows Exploitation](https://github.com/enddo/awesome-windows-exploitation) A curated list of awesome Windows Exploitation resources
-- [Web Hacking](https://github.com/infoslack/awesome-web-hacking)
-- [Awesome Hacking](https://github.com/carpedm20/awesome-hacking)
-- [Awesome Hacking Resources](https://github.com/vitalysim/Awesome-Hacking-Resources)
