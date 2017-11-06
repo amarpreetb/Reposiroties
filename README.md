@@ -4,7 +4,7 @@
 
 - [List of Lists](https://github.com/jnv/lists)
 - [Awesome List](https://github.com/sindresorhus/awesome)
-- [Awesome C](https://github.com/amarpreetb/awesome-c)
+- [Awesome C](https://github.com/uhub/awesome-c)
 - [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 - [Awesome Reverse Engineering](https://github.com/fdivrp/awesome-reversing)
@@ -55,7 +55,7 @@
 - [AlgoWiki](https://github.com/vicky002/AlgoWiki) - Repository which contains links and resources on different topics of Computer Science.
 
 ## C
-- [Awesome C](https://github.com/amarpreetb/awesome-c)
+- [Awesome C](https://github.com/uhub/awesome-c)
 - [C Algorithms](https://github.com/fragglet/c-algorithms)
 - [LZ4 - Compression Algorithm](https://github.com/lz4/lz4)
 - [OpenGL Minecraft](https://github.com/fogleman/Craft)
