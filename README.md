@@ -1,4 +1,4 @@
-# Github Repositories
+# My Github Repositories
 
 ## Awesome List
 
@@ -83,6 +83,19 @@
 - [OpenGL Minecraft](https://github.com/fogleman/Craft) - A simple Minecraft clone written in C using modern OpenGL
 - [0AD](https://github.com/0ad/0ad)
 - [Porting Xbox360 executables to Windows](https://github.com/rexdex/recompiler)
+
+#### Game Engines
+- [ORX](https://github.com/orx/orx)
+- [Godot](https://github.com/godotengine/godot)
+- [Ogre](https://github.com/OGRECave/ogre)
+- [Torque 3D](https://github.com/GarageGames/Torque3D)
+- [OpenXRay](https://github.com/OpenXRay/xray-16)
+- [Quake-III-Arena](https://github.com/id-Software/Quake-III-Arena)
+- [Panda 3D](https://github.com/panda3d/panda3d)
+- [Blender](https://github.com/dfelinto/blender)
+- [Spring](https://github.com/spring/spring)
+- [Doom 3 GPL](https://github.com/TTimo/doom3.gpl)
+- [Box2D](https://github.com/erincatto/Box2D)
 
 #### Software
 - [VLC](https://github.com/videolan/vlc)
