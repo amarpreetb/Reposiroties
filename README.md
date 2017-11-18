@@ -71,6 +71,7 @@
 - [Javascript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
 - [URL to PDF API](https://github.com/alvarcarto/url-to-pdf-api)
 - [Speed Test](https://github.com/sindresorhus/speed-test)
+- [js2flowchart](https://github.com/Bogdan-Lyashenko/js-code-to-svg-flowchart) - a visualization library to convert any JavaScript code into beautiful SVG flowchart. Learn other’s code. Design your code. Refactor code. Document code. Explain code.
 
 ## Open Source Software/Games On Github
 
@@ -83,6 +84,7 @@
 - [OpenGL Minecraft](https://github.com/fogleman/Craft) - A simple Minecraft clone written in C using modern OpenGL
 - [0AD](https://github.com/0ad/0ad)
 - [Porting Xbox360 executables to Windows](https://github.com/rexdex/recompiler)
+- [Carla](https://github.com/carla-simulator/carla)
 
 #### Game Engines
 - [ORX](https://github.com/orx/orx)
