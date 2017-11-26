@@ -65,6 +65,7 @@
 - [TvHeadend](https://github.com/tvheadend/tvheadend) - Tvheadend is a TV streaming server for Linux
 - [The Powder Toy](https://github.com/ThePowderToy/The-Powder-Toy) - The Powder Toy is a desktop version of the classic 'falling sand' physics sandbox, it simulates air pressure and velocity as well as heat. 
 - [Corange](https://github.com/orangeduck/Corange) - Pure C Game Engine 
+- [Open-pilot](https://github.com/commaai/openpilot) - open source driving agent
 
 
 ## Javascript
