@@ -98,6 +98,18 @@
 - [The Ultimate vimrc](https://github.com/amix/vimrc)
 - [Pace](https://github.com/HubSpot/pace) - Automatically add a progress bar to your site
 
+## Cryptocurrency  
+- [Bitcoin](https://github.com/bitcoin/bitcoin)
+- [Litecoin](https://github.com/litecoin-project/litecoin)
+- [Ethereum](https://github.com/ethereum/cpp-ethereum)
+- [Zcash](https://github.com/zcash/zcash)
+- [Dash](https://github.com/dashpay/dash)
+- [Augur](https://github.com/AugurProject)
+- [Monero](https://github.com/monero-project/monero)
+- [Monero](https://github.com/monero-project/monero)
+- [Awesome Bitcoin Cash](https://github.com/dsmurrell/awesome-bitcoin-cash)
+- [Crypto Tracker](https://github.com/EthVentures/CryptoTracker)
+
 ## Android
 - [List of Android UI/UX Libraries](https://github.com/wasabeef/awesome-android-ui)
 - [Android Architecture Blueprints](https://github.com/googlesamples/android-architecture)
