@@ -109,6 +109,15 @@
 - [Monero](https://github.com/monero-project/monero)
 - [Awesome Bitcoin Cash](https://github.com/dsmurrell/awesome-bitcoin-cash)
 - [Crypto Tracker](https://github.com/EthVentures/CryptoTracker)
+- [Ripple](https://github.com/ripple/rippled)
+- [Stellar](https://github.com/stellar/stellar-core)
+- [Qtum](https://github.com/qtumproject/qtum/)
+- [Bitcoin Gold](https://github.com/BTCGPU/BTCGPU)
+- [Bitconnect](https://github.com/bitconnectcoin/bitconnectcoin)
+- [Verge](https://github.com/vergecurrency/VERGE) - C language
+- [LoopChain](https://github.com/theloopkr/loopchain) - Python
+- [Raiblock](https://github.com/clemahieu/raiblocks)
+- [Bitshares](https://github.com/bitshares/bitshares-core)
 
 ## Android
 - [List of Android UI/UX Libraries](https://github.com/wasabeef/awesome-android-ui)
