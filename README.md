@@ -22,6 +22,7 @@
 - [Awesome Bots](https://github.com/abdelhai/awesome-bots) - Debug, Design, Hack a bot and more..
 - [Awesome Bots](https://github.com/BotCube/awesome-bots) - Complete list of tools and bots
 - [Awesome Bots](https://github.com/hackerkid/bots) - Tools for building bots and platform documentation
+- [CryptoList](https://github.com/coinpride/CryptoList)
 
 ## Education
 - [OpenGL](https://github.com/McNopper/OpenGL)
